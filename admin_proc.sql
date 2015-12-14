@@ -1,1 +1,1 @@
-select 'adios'
+select 'adios', 'hola'
