@@ -2,5 +2,5 @@
 
 ##procedimiento IJ
 
-Autor: **Fernando Valentín**
+Autor: **Fernando Valentin**
 Empresa: *Experian*
